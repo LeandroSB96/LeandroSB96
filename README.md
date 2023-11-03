@@ -1,11 +1,11 @@
-![Masterhead](https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif)
+
 <h1 align="center">Hola 👋, Me llamo Leandro Saint Bonnet</h1>
 <h3 align="center">Soy estudiante de la tecnicatura en programaciòn en UTN San Rafael y un apasionado por la tecnología.</h3>
-<img align="center" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrosb96&label=Profile%20views&color=0e75b6&style=flat" alt="leandrosb96" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@saintbonnet96" target="blank"><img src="https://img.shields.io/twitter/follow/@saintbonnet96?logo=twitter&style=for-the-badge" alt="@saintbonnet96" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saintbonnet96" target="blank"><img src="https://img.shields.io/twitter/follow/saintbonnet96?logo=twitter&style=for-the-badge" alt="saintbonnet96" /></a> </p>
 
 - 📫 How to reach me **leandrosaintbonnet96@gmail.com**
 
